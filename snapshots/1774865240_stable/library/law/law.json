@@ -1,0 +1,15 @@
+{
+  "pipeline": [
+    "VERTICAL",
+    "HORIZONTAL",
+    "EVALUATE",
+    "GUARD",
+    "IAM",
+    "ACT",
+    "STORE"
+  ],
+  "limits": {
+    "max_read_mb": 10,
+    "mode": "READ_ONLY_FIRST"
+  }
+}

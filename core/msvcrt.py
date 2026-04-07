@@ -1,0 +1,2 @@
+def run():
+    return "msvcrt active"

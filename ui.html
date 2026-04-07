@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>AI Worker</title>
+<style>
+body { font-family: Arial; background: #0f172a; color: white; margin: 0; }
+#chat { height: 80vh; overflow-y: auto; padding: 20px; }
+.msg { margin: 10px 0; }
+.user { color: #38bdf8; }
+.ai { color: #22c55e; }
+#bar { position: fixed; bottom: 0; width: 100%; background: #1e293b; padding: 10px; }
+input { width: 80%; padding: 10px; }
+button { padding: 10px; }
+</style>
+</head>
+
+<body>
+
+<h2 style="padding:10px;">AI Worker</h2>
+
+<div id="chat"></div>
+
+<div id="bar">
+    <input id="input" placeholder="z.B. baue ui"/>
+    <button onclick="send()">Send</button>
+</div>
+
+<script>
+const API = "/process";
+
+function add(msg, cls){
+    let div = document.createElement("div");
+    div.className = "msg " + cls;
+    div.innerText = msg;
+    document.getElementById("chat").appendChild(div);
+    document.getElementById("chat").scrollTop = 999999;
+}
+
+document.getElementById("input").addEventListener("keypress", function(e){
+    if(e.key === "Enter"){
+        send();
+    }
+});
+
+async function send(){
+
+    let input = document.getElementById("input");
+    let text = input.value;
+
+    if(!text) return;
+
+    add("USER: " + text, "user");
+
+    input.value = "";
+
+    try{
+        let res = await fetch(API, {
+            method: "POST",
+            headers: {"Content-Type":"application/json"},
+            body: JSON.stringify({
+                token: "TEST",
+                role: "admin",
+                signal: text
+            })
+        });
+
+        let textRes = await res.text();
+
+        try{
+            let data = JSON.parse(textRes);
+            add("AI: " + JSON.stringify(data), "ai");
+        }catch(e){
+            add("RAW: " + textRes, "ai");
+        }
+
+    }catch(e){
+        add("ERROR: " + e, "ai");
+    }
+}
+</script>
+
+</body>
+</html>

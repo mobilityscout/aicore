@@ -1,0 +1,3 @@
+{"id": "1774882345597", "type": "DERIVED", "signal_hash": null, "decision": null, "count": 50, "success": 0, "confidence": 0.0, "timestamp": 1774882345.597743}
+{"id": "1774882407384", "type": "DERIVED", "signal_hash": null, "decision": null, "count": 50, "success": 0, "confidence": 0.0, "timestamp": 1774882407.38421}
+{"id": "1774882407384", "type": "DERIVED", "signal_hash": "e1ee6a458ae795493a21b6c7d36ce79245aadd41f7261038f73cff5eb5219560", "decision": "RESEARCH", "count": 3, "success": 3, "confidence": 1.0, "timestamp": 1774882407.384217}

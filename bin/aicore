@@ -1,0 +1,9 @@
+#!/bin/bash
+export PYTHONPATH=/opt/aicore
+export AICORE_TENANT=${AICORE_TENANT:-ms24}
+
+python3 - << 'PY'
+from core.event_store import append_event
+append_event("BOOT","0","SYSTEM","START",{"tenant":"init"})
+print("AICORE STARTED")
+PY

@@ -1,0 +1,377 @@
+{"t": 1774856531.1246448, "dirs": 73679, "files": 587769, "delta": 73679, "state": "VERTICAL_GROWING", "phase": "VERTICAL", "score": 100, "errors": 0}
+{"t": 1774856544.198357, "dirs": 73679, "files": 587799, "delta": 0, "state": "VERTICAL_STABLE", "phase": "VERTICAL", "score": 100, "errors": 0}
+{"t": 1774856557.40937, "dirs": 73679, "files": 587838, "delta": 0, "state": "READY", "score": 100, "errors": 0}
+{"t": 1774856570.1175227, "dirs": 73679, "files": 588099, "delta": 0, "state": "READY", "score": 100, "errors": 0}
+{"t": 1774856583.6441085, "dirs": 73679, "files": 587886, "delta": 0, "state": "READY", "score": 100, "errors": 0}
+{"t": 1774856596.7980165, "dirs": 73679, "files": 587922, "delta": 0, "state": "READY", "score": 100, "errors": 0}
+{"t": 1774856609.3189652, "dirs": 73679, "files": 587951, "delta": 0, "state": "READY", "score": 100, "errors": 0}
+{"t": 1774856622.608921, "dirs": 73679, "files": 587517, "delta": 0, "state": "READY", "score": 100, "errors": 0}
+{"t": 1774856635.4550097, "dirs": 73634, "files": 587788, "delta": -45, "state": "READY", "score": 95, "errors": 1}
+{"t": 1774856648.4945605, "dirs": 73691, "files": 588404, "delta": 57, "state": "READY", "score": 95, "errors": 1}
+{"t": 1774856661.9471571, "dirs": 73705, "files": 588069, "delta": 14, "state": "READY", "score": 95, "errors": 1}
+{"t": 1774856674.421948, "dirs": 73679, "files": 588065, "delta": -26, "state": "READY", "score": 90, "errors": 2}
+{"t": 1774856687.5742576, "dirs": 73653, "files": 588362, "delta": -26, "state": "READY", "score": 85, "errors": 3}
+{"t": 1774856700.785859, "dirs": 73679, "files": 588402, "delta": 26, "state": "READY", "score": 85, "errors": 3}
+{"t": 1774856713.7733505, "dirs": 73783, "files": 589462, "delta": 104, "state": "READY", "score": 85, "errors": 3}
+{"t": 1774856727.0473664, "dirs": 73679, "files": 588222, "delta": -104, "state": "READY", "score": 80, "errors": 4}
+{"t": 1774856740.036085, "dirs": 73679, "files": 588260, "delta": 0, "state": "READY", "score": 80, "errors": 4}
+{"t": 1774856753.0489724, "dirs": 73679, "files": 588395, "delta": 0, "state": "READY", "score": 80, "errors": 4}
+{"t": 1774856766.8481753, "dirs": 73653, "files": 587726, "delta": -26, "state": "READY", "score": 75, "errors": 5}
+{"t": 1774856779.215962, "dirs": 73627, "files": 588353, "delta": -26, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856792.0354145, "dirs": 73653, "files": 588464, "delta": 26, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856805.4495416, "dirs": 73653, "files": 588178, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856818.2387784, "dirs": 73653, "files": 588437, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856831.7571342, "dirs": 73653, "files": 588240, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856844.4032314, "dirs": 73653, "files": 588499, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856857.7878907, "dirs": 73653, "files": 588303, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856870.4269214, "dirs": 73653, "files": 588642, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856883.761766, "dirs": 73653, "files": 588464, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856896.8584151, "dirs": 73653, "files": 588153, "delta": 0, "state": "READY", "score": 70, "errors": 6}
+{"t": 1774856909.6455622, "dirs": 73627, "files": 588655, "delta": -26, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774856922.9679503, "dirs": 73627, "files": 588213, "delta": 0, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774856935.9797919, "dirs": 73627, "files": 588249, "delta": 0, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774856948.898531, "dirs": 73679, "files": 588962, "delta": 52, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774856962.3660538, "dirs": 73679, "files": 588759, "delta": 0, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774856974.8713968, "dirs": 73679, "files": 589107, "delta": 0, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774856988.138347, "dirs": 73679, "files": 588831, "delta": 0, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774857001.5440273, "dirs": 73679, "files": 588612, "delta": 0, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774857014.1151807, "dirs": 73809, "files": 590281, "delta": 130, "state": "READY", "score": 65, "errors": 7}
+{"t": 1774857027.5403342, "dirs": 73679, "files": 588903, "delta": -130, "state": "READY", "score": 60, "errors": 8}
+{"t": 1774857040.3202722, "dirs": 73653, "files": 588954, "delta": -26, "state": "READY", "score": 55, "errors": 9}
+{"t": 1774857053.323569, "dirs": 73731, "files": 589451, "delta": 78, "state": "READY", "score": 55, "errors": 9}
+{"t": 1774857066.9405098, "dirs": 73679, "files": 588768, "delta": -52, "state": "READY", "score": 50, "errors": 10}
+{"t": 1774857079.2534533, "dirs": 73679, "files": 588992, "delta": 0, "state": "READY", "score": 50, "errors": 10}
+{"t": 1774857092.6362302, "dirs": 73679, "files": 588835, "delta": 0, "state": "READY", "score": 50, "errors": 10}
+{"t": 1774857118.7666714, "vertical": {"dirs": 73679}, "horizontal": {"files": 589231}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857132.0556889, "vertical": {"dirs": 73679}, "horizontal": {"files": 589145}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857145.0886521, "vertical": {"dirs": 73679}, "horizontal": {"files": 589183}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857157.6500738, "vertical": {"dirs": 73653}, "horizontal": {"files": 589646}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857171.0290673, "vertical": {"dirs": 73679}, "horizontal": {"files": 589241}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857184.3378522, "vertical": {"dirs": 73679}, "horizontal": {"files": 589266}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857197.4425616, "vertical": {"dirs": 73679}, "horizontal": {"files": 589180}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857210.2790036, "vertical": {"dirs": 73679}, "horizontal": {"files": 588872}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857223.150056, "vertical": {"dirs": 73679}, "horizontal": {"files": 589710}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857236.6004148, "vertical": {"dirs": 73679}, "horizontal": {"files": 589386}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857249.5037067, "vertical": {"dirs": 73665}, "horizontal": {"files": 589324}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857262.4325054, "vertical": {"dirs": 73627}, "horizontal": {"files": 589228}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857275.678556, "vertical": {"dirs": 73679}, "horizontal": {"files": 589491}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857288.619733, "vertical": {"dirs": 73679}, "horizontal": {"files": 589051}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857301.803487, "vertical": {"dirs": 73679}, "horizontal": {"files": 589542}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857314.6572447, "vertical": {"dirs": 73809}, "horizontal": {"files": 590736}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857327.685724, "vertical": {"dirs": 73705}, "horizontal": {"files": 589695}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857341.1492083, "vertical": {"dirs": 73679}, "horizontal": {"files": 589873}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857354.4362195, "vertical": {"dirs": 73679}, "horizontal": {"files": 589662}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857367.688229, "vertical": {"dirs": 73679}, "horizontal": {"files": 589225}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857380.3278956, "vertical": {"dirs": 73653}, "horizontal": {"files": 589727}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857393.3475788, "vertical": {"dirs": 73679}, "horizontal": {"files": 589522}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857406.5670915, "vertical": {"dirs": 73653}, "horizontal": {"files": 589323}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857419.3470857, "vertical": {"dirs": 73679}, "horizontal": {"files": 590044}, "evaluation": {"score": 100}, "decision": {"next": "CONTINUE"}, "action": {"action": "NONE"}}
+{"t": 1774857432.8781693, "dirs": 73679, "files": 589952, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857436.4748611, "dirs": 73679, "files": 589844, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857445.7223735, "dirs": 73679, "files": 589634, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857449.429957, "dirs": 73679, "files": 589878, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857458.8716695, "dirs": 73705, "files": 590378, "decision": {"next": "EXPAND"}}
+{"t": 1774857462.432518, "dirs": 73679, "files": 589902, "decision": {"next": "EXPAND"}}
+{"t": 1774857466.232547, "dirs": 73653, "files": 589914, "decision": {"next": "EXPAND"}}
+{"t": 1774857470.9908476, "dirs": 73679, "files": 590748, "decision": {"next": "EXPAND"}}
+{"t": 1774857473.6035573, "dirs": 73769, "files": 590756, "decision": {"next": "EXPAND"}}
+{"t": 1774857477.3211076, "dirs": 73743, "files": 590879, "decision": {"next": "EXPAND"}}
+{"t": 1774857480.0832567, "dirs": 73773, "files": 590768, "decision": {"next": "EXPAND"}}
+{"t": 1774857484.5925505, "dirs": 73743, "files": 591383, "decision": {"next": "EXPAND"}}
+{"t": 1774857489.1154423, "dirs": 73833, "files": 591494, "decision": {"next": "EXPAND"}}
+{"t": 1774857491.0490305, "dirs": 73833, "files": 591620, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857493.6385155, "dirs": 73851, "files": 591392, "decision": {"next": "EXPAND"}}
+{"t": 1774857499.9794028, "dirs": 73833, "files": 592360, "decision": {"next": "EXPAND"}}
+{"t": 1774857502.3534997, "dirs": 73949, "files": 592470, "decision": {"next": "EXPAND"}}
+{"t": 1774857505.386881, "dirs": 73941, "files": 592573, "decision": {"next": "EXPAND"}}
+{"t": 1774857505.8033469, "dirs": 73941, "files": 592265, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857513.9404893, "dirs": 73845, "files": 593447, "decision": {"next": "EXPAND"}}
+{"t": 1774857516.6362402, "dirs": 73909, "files": 592765, "decision": {"next": "EXPAND"}}
+{"t": 1774857519.3429205, "dirs": 74005, "files": 593125, "decision": {"next": "EXPAND"}}
+{"t": 1774857519.5188112, "dirs": 74031, "files": 592659, "decision": {"next": "EXPAND"}}
+{"t": 1774857524.5998504, "dirs": 73909, "files": 593149, "decision": {"next": "EXPAND"}}
+{"t": 1774857532.1987886, "dirs": 74103, "files": 594324, "decision": {"next": "EXPAND"}}
+{"t": 1774857535.1442816, "dirs": 73999, "files": 594534, "decision": {"next": "EXPAND"}}
+{"t": 1774857536.3684142, "dirs": 74129, "files": 594859, "decision": {"next": "EXPAND"}}
+{"t": 1774857540.482829, "dirs": 74025, "files": 595072, "decision": {"next": "EXPAND"}}
+{"t": 1774857541.5154414, "dirs": 74155, "files": 594918, "decision": {"next": "EXPAND"}}
+{"t": 1774857545.6824272, "dirs": 74106, "files": 594376, "decision": {"next": "EXPAND"}}
+{"t": 1774857556.6597924, "dirs": 74089, "files": 595726, "decision": {"next": "EXPAND"}}
+{"t": 1774857557.277844, "dirs": 74219, "files": 596338, "decision": {"next": "EXPAND"}}
+{"t": 1774857558.162339, "dirs": 74219, "files": 596116, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857558.721661, "dirs": 74133, "files": 594792, "decision": {"next": "EXPAND"}}
+{"t": 1774857564.3474355, "dirs": 74283, "files": 597387, "decision": {"next": "EXPAND"}}
+{"t": 1774857565.5355663, "dirs": 74309, "files": 596369, "decision": {"next": "EXPAND"}}
+{"t": 1774857572.3061726, "dirs": 74153, "files": 497382, "decision": {"next": "EXPAND"}}
+{"t": 1774857572.7070453, "dirs": 74347, "files": 596025, "decision": {"next": "EXPAND"}}
+{"t": 1774857584.312257, "dirs": 74321, "files": 597387, "decision": {"next": "EXPAND"}}
+{"t": 1774857585.431246, "dirs": 74373, "files": 597602, "decision": {"next": "EXPAND"}}
+{"t": 1774857588.4133372, "dirs": 74261, "files": 596570, "decision": {"next": "EXPAND"}}
+{"t": 1774857589.2380607, "dirs": 74373, "files": 596340, "decision": {"next": "EXPAND"}}
+{"t": 1774857592.234358, "dirs": 74191, "files": 596546, "decision": {"next": "EXPAND"}}
+{"t": 1774857597.4597206, "dirs": 74429, "files": 598605, "decision": {"next": "EXPAND"}}
+{"t": 1774857597.6352344, "dirs": 74429, "files": 598148, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857605.9915528, "dirs": 74333, "files": 598917, "decision": {"next": "EXPAND"}}
+{"t": 1774857606.3662333, "dirs": 74333, "files": 598905, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857609.0478797, "dirs": 74415, "files": 598567, "decision": {"next": "EXPAND"}}
+{"t": 1774857622.226285, "dirs": 74345, "files": 599832, "decision": {"next": "EXPAND"}}
+{"t": 1774857624.0784283, "dirs": 74514, "files": 599225, "decision": {"next": "EXPAND"}}
+{"t": 1774857624.8934307, "dirs": 74513, "files": 599226, "decision": {"next": "EXPAND"}}
+{"t": 1774857628.13602, "dirs": 74557, "files": 598543, "decision": {"next": "EXPAND"}}
+{"t": 1774857630.2700791, "dirs": 74739, "files": 598708, "decision": {"next": "EXPAND"}}
+{"t": 1774857631.022681, "dirs": 74721, "files": 600264, "decision": {"next": "EXPAND"}}
+{"t": 1774857650.2090473, "dirs": 73653, "files": 590621, "decision": {"next": "EXPAND"}}
+{"t": 1774857654.8700433, "dirs": 73705, "files": 591231, "decision": {"next": "EXPAND"}}
+{"t": 1774857658.382495, "dirs": 73814, "files": 591236, "decision": {"next": "EXPAND"}}
+{"t": 1774857660.8403842, "dirs": 73813, "files": 591364, "decision": {"next": "EXPAND"}}
+{"t": 1774857666.950705, "dirs": 73718, "files": 592569, "decision": {"next": "EXPAND"}}
+{"t": 1774857670.9387958, "dirs": 73859, "files": 592929, "decision": {"next": "EXPAND"}}
+{"t": 1774857672.8530781, "dirs": 73923, "files": 592813, "decision": {"next": "EXPAND"}}
+{"t": 1774857678.279445, "dirs": 73897, "files": 592946, "decision": {"next": "EXPAND"}}
+{"t": 1774857680.108472, "dirs": 73993, "files": 593447, "decision": {"next": "EXPAND"}}
+{"t": 1774857684.3683558, "dirs": 73949, "files": 593911, "decision": {"next": "EXPAND"}}
+{"t": 1774857686.755251, "dirs": 73909, "files": 593925, "decision": {"next": "EXPAND"}}
+{"t": 1774857693.4113073, "dirs": 74039, "files": 594551, "decision": {"next": "EXPAND"}}
+{"t": 1774857695.5561812, "dirs": 74039, "files": 593931, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857696.0871444, "dirs": 73779, "files": 594552, "decision": {"next": "EXPAND"}}
+{"t": 1774857703.37856, "dirs": 74051, "files": 593623, "decision": {"next": "EXPAND"}}
+{"t": 1774857707.254189, "dirs": 74103, "files": 595654, "decision": {"next": "EXPAND"}}
+{"t": 1774857712.1913726, "dirs": 74155, "files": 595886, "decision": {"next": "EXPAND"}}
+{"t": 1774857714.2977605, "dirs": 74025, "files": 594718, "decision": {"next": "EXPAND"}}
+{"t": 1774857715.9075263, "dirs": 74069, "files": 594485, "decision": {"next": "EXPAND"}}
+{"t": 1774857717.215733, "dirs": 74025, "files": 595890, "decision": {"next": "EXPAND"}}
+{"t": 1774857725.227108, "dirs": 74245, "files": 596621, "decision": {"next": "EXPAND"}}
+{"t": 1774857728.8982062, "dirs": 74141, "files": 596305, "decision": {"next": "EXPAND"}}
+{"t": 1774857729.4421163, "dirs": 74115, "files": 595950, "decision": {"next": "EXPAND"}}
+{"t": 1774857739.929693, "dirs": 74335, "files": 596724, "decision": {"next": "EXPAND"}}
+{"t": 1774857740.5860965, "dirs": 74257, "files": 597177, "decision": {"next": "EXPAND"}}
+{"t": 1774857743.1379251, "dirs": 74362, "files": 595777, "decision": {"next": "EXPAND"}}
+{"t": 1774857743.2121596, "dirs": 74249, "files": 596491, "decision": {"next": "EXPAND"}}
+{"t": 1774857743.7825756, "dirs": 74353, "files": 596728, "decision": {"next": "EXPAND"}}
+{"t": 1774857758.2399518, "dirs": 74347, "files": 599049, "decision": {"next": "EXPAND"}}
+{"t": 1774857760.562253, "dirs": 74347, "files": 596769, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857761.890987, "dirs": 74347, "files": 597241, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857764.9449098, "dirs": 74281, "files": 598403, "decision": {"next": "EXPAND"}}
+{"t": 1774857775.801054, "dirs": 74409, "files": 492918, "decision": {"next": "EXPAND"}}
+{"t": 1774857778.2843246, "dirs": 74623, "files": 600336, "decision": {"next": "EXPAND"}}
+{"t": 1774857779.1121082, "dirs": 74571, "files": 600266, "decision": {"next": "EXPAND"}}
+{"t": 1774857780.3652852, "dirs": 74571, "files": 599316, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857781.6300092, "dirs": 74623, "files": 598641, "decision": {"next": "EXPAND"}}
+{"t": 1774857782.9136097, "dirs": 74401, "files": 600024, "decision": {"next": "EXPAND"}}
+{"t": 1774857783.0905206, "dirs": 74461, "files": 598597, "decision": {"next": "EXPAND"}}
+{"t": 1774857798.3649135, "dirs": 74733, "files": 601389, "decision": {"next": "EXPAND"}}
+{"t": 1774857800.6432502, "dirs": 74759, "files": 601433, "decision": {"next": "EXPAND"}}
+{"t": 1774857800.9747696, "dirs": 61225, "files": 601337, "decision": {"next": "EXPAND"}}
+{"t": 1774857805.7344654, "dirs": 74673, "files": 600885, "decision": {"next": "EXPAND"}}
+{"t": 1774857810.6110537, "dirs": 74603, "files": 600142, "decision": {"next": "EXPAND"}}
+{"t": 1774857815.3488262, "dirs": 74789, "files": 602672, "decision": {"next": "EXPAND"}}
+{"t": 1774857826.370392, "dirs": 74824, "files": 604112, "decision": {"next": "EXPAND"}}
+{"t": 1774857829.464399, "dirs": 74823, "files": 604428, "decision": {"next": "EXPAND"}}
+{"t": 1774857830.1207798, "dirs": 74913, "files": 604445, "decision": {"next": "EXPAND"}}
+{"t": 1774857831.741465, "dirs": 74757, "files": 604072, "decision": {"next": "EXPAND"}}
+{"t": 1774857833.5512877, "dirs": 74757, "files": 603503, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857834.144811, "dirs": 74653, "files": 604303, "decision": {"next": "EXPAND"}}
+{"t": 1774857834.146389, "dirs": 74731, "files": 603402, "decision": {"next": "EXPAND"}}
+{"t": 1774857835.8289332, "dirs": 74731, "files": 603151, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857853.138536, "dirs": 75015, "files": 605827, "decision": {"next": "EXPAND"}}
+{"t": 1774857856.702209, "dirs": 75093, "files": 605823, "decision": {"next": "EXPAND"}}
+{"t": 1774857858.1472178, "dirs": 75007, "files": 605808, "decision": {"next": "EXPAND"}}
+{"t": 1774857859.4235408, "dirs": 74989, "files": 605203, "decision": {"next": "EXPAND"}}
+{"t": 1774857860.3776736, "dirs": 75105, "files": 606395, "decision": {"next": "EXPAND"}}
+{"t": 1774857866.5077999, "dirs": 75019, "files": 604519, "decision": {"next": "EXPAND"}}
+{"t": 1774857873.179155, "dirs": 75027, "files": 606803, "decision": {"next": "EXPAND"}}
+{"t": 1774857874.3623247, "dirs": 74819, "files": 605542, "decision": {"next": "EXPAND"}}
+{"t": 1774857881.4716578, "dirs": 75155, "files": 607095, "decision": {"next": "EXPAND"}}
+{"t": 1774857890.467499, "dirs": 75259, "files": 607739, "decision": {"next": "EXPAND"}}
+{"t": 1774857893.4372506, "dirs": 75323, "files": 609255, "decision": {"next": "EXPAND"}}
+{"t": 1774857896.2474165, "dirs": 75271, "files": 608927, "decision": {"next": "EXPAND"}}
+{"t": 1774857899.4443862, "dirs": 75311, "files": 609413, "decision": {"next": "EXPAND"}}
+{"t": 1774857901.5673382, "dirs": 75199, "files": 608366, "decision": {"next": "EXPAND"}}
+{"t": 1774857901.802755, "dirs": 75199, "files": 608347, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857904.3708155, "dirs": 75139, "files": 608364, "decision": {"next": "EXPAND"}}
+{"t": 1774857906.3088906, "dirs": 75155, "files": 608694, "decision": {"next": "EXPAND"}}
+{"t": 1774857907.3970504, "dirs": 75103, "files": 608001, "decision": {"next": "EXPAND"}}
+{"t": 1774857907.466424, "dirs": 75155, "files": 608951, "decision": {"next": "EXPAND"}}
+{"t": 1774857926.4753823, "dirs": 75529, "files": 611978, "decision": {"next": "EXPAND"}}
+{"t": 1774857932.7907991, "dirs": 75503, "files": 611984, "decision": {"next": "EXPAND"}}
+{"t": 1774857933.0344567, "dirs": 75607, "files": 612008, "decision": {"next": "EXPAND"}}
+{"t": 1774857936.7625287, "dirs": 75581, "files": 612240, "decision": {"next": "EXPAND"}}
+{"t": 1774857938.2183802, "dirs": 75581, "files": 611533, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857940.5833607, "dirs": 75463, "files": 613638, "decision": {"next": "EXPAND"}}
+{"t": 1774857941.7224498, "dirs": 75463, "files": 611551, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774857944.0388033, "dirs": 75515, "files": 611543, "decision": {"next": "EXPAND"}}
+{"t": 1774857987.9785707, "dirs": 73937, "files": 592743, "decision": {"next": "EXPAND"}}
+{"t": 1774857988.307293, "dirs": 73833, "files": 592745, "decision": {"next": "EXPAND"}}
+{"t": 1774857991.0296907, "dirs": 73859, "files": 593248, "decision": {"next": "EXPAND"}}
+{"t": 1774857998.7920308, "dirs": 73949, "files": 593495, "decision": {"next": "EXPAND"}}
+{"t": 1774858001.8579252, "dirs": 73923, "files": 593276, "decision": {"next": "EXPAND"}}
+{"t": 1774858002.2619689, "dirs": 73936, "files": 593262, "decision": {"next": "EXPAND"}}
+{"t": 1774858005.5473704, "dirs": 73967, "files": 594000, "decision": {"next": "EXPAND"}}
+{"t": 1774858011.3675454, "dirs": 73883, "files": 593084, "decision": {"next": "EXPAND"}}
+{"t": 1774858016.8210654, "dirs": 73962, "files": 593919, "decision": {"next": "EXPAND"}}
+{"t": 1774858018.6548877, "dirs": 74013, "files": 593822, "decision": {"next": "EXPAND"}}
+{"t": 1774858019.4628747, "dirs": 73961, "files": 594838, "decision": {"next": "EXPAND"}}
+{"t": 1774858023.5498943, "dirs": 73999, "files": 595321, "decision": {"next": "EXPAND"}}
+{"t": 1774858029.7922695, "dirs": 74078, "files": 594785, "decision": {"next": "EXPAND"}}
+{"t": 1774858036.4275553, "dirs": 73947, "files": 595171, "decision": {"next": "EXPAND"}}
+{"t": 1774858036.5823958, "dirs": 74000, "files": 596013, "decision": {"next": "EXPAND"}}
+{"t": 1774858040.0814395, "dirs": 74103, "files": 595643, "decision": {"next": "EXPAND"}}
+{"t": 1774858040.3280668, "dirs": 74025, "files": 595651, "decision": {"next": "EXPAND"}}
+{"t": 1774858048.0416753, "dirs": 74167, "files": 596669, "decision": {"next": "EXPAND"}}
+{"t": 1774858053.1315248, "dirs": 74167, "files": 597225, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858053.1574767, "dirs": 74167, "files": 597229, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858064.504479, "dirs": 74295, "files": 598036, "decision": {"next": "EXPAND"}}
+{"t": 1774858064.715499, "dirs": 74295, "files": 597795, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858069.9168394, "dirs": 74321, "files": 598104, "decision": {"next": "EXPAND"}}
+{"t": 1774858071.4155502, "dirs": 74321, "files": 598442, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858074.1750665, "dirs": 74270, "files": 598679, "decision": {"next": "EXPAND"}}
+{"t": 1774858074.631436, "dirs": 74333, "files": 597964, "decision": {"next": "EXPAND"}}
+{"t": 1774858080.4234633, "dirs": 74437, "files": 598911, "decision": {"next": "EXPAND"}}
+{"t": 1774858086.1308618, "dirs": 74229, "files": 599809, "decision": {"next": "EXPAND"}}
+{"t": 1774858086.8822768, "dirs": 74437, "files": 599343, "decision": {"next": "EXPAND"}}
+{"t": 1774858088.4829175, "dirs": 74371, "files": 493164, "decision": {"next": "EXPAND"}}
+{"t": 1774858100.3108902, "dirs": 74501, "files": 600371, "decision": {"next": "EXPAND"}}
+{"t": 1774858102.449766, "dirs": 74502, "files": 599965, "decision": {"next": "EXPAND"}}
+{"t": 1774858107.1141503, "dirs": 74565, "files": 601134, "decision": {"next": "EXPAND"}}
+{"t": 1774858108.8425672, "dirs": 74539, "files": 602180, "decision": {"next": "EXPAND"}}
+{"t": 1774858109.0754056, "dirs": 74617, "files": 601370, "decision": {"next": "EXPAND"}}
+{"t": 1774858116.2725105, "dirs": 74565, "files": 602156, "decision": {"next": "EXPAND"}}
+{"t": 1774858117.1930673, "dirs": 74565, "files": 602381, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858123.6412473, "dirs": 74543, "files": 601450, "decision": {"next": "EXPAND"}}
+{"t": 1774858126.5805168, "dirs": 74673, "files": 603145, "decision": {"next": "EXPAND"}}
+{"t": 1774858130.7548897, "dirs": 74577, "files": 602579, "decision": {"next": "EXPAND"}}
+{"t": 1774858133.1338167, "dirs": 74563, "files": 603153, "decision": {"next": "EXPAND"}}
+{"t": 1774858135.6479044, "dirs": 74685, "files": 602219, "decision": {"next": "EXPAND"}}
+{"t": 1774858145.8265595, "dirs": 74853, "files": 603605, "decision": {"next": "EXPAND"}}
+{"t": 1774858151.7627323, "dirs": 74750, "files": 602448, "decision": {"next": "EXPAND"}}
+{"t": 1774858152.1168413, "dirs": 74827, "files": 602958, "decision": {"next": "EXPAND"}}
+{"t": 1774858155.0957336, "dirs": 74847, "files": 604744, "decision": {"next": "EXPAND"}}
+{"t": 1774858159.6085625, "dirs": 74847, "files": 603827, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858160.9375687, "dirs": 74899, "files": 603350, "decision": {"next": "EXPAND"}}
+{"t": 1774858162.316953, "dirs": 74847, "files": 604066, "decision": {"next": "EXPAND"}}
+{"t": 1774858165.0077915, "dirs": 74899, "files": 603349, "decision": {"next": "EXPAND"}}
+{"t": 1774858172.369328, "dirs": 74911, "files": 605883, "decision": {"next": "EXPAND"}}
+{"t": 1774858175.1530128, "dirs": 74963, "files": 606811, "decision": {"next": "EXPAND"}}
+{"t": 1774858177.309824, "dirs": 61039, "files": 606559, "decision": {"next": "EXPAND"}}
+{"t": 1774858177.4136138, "dirs": 74989, "files": 606575, "decision": {"next": "EXPAND"}}
+{"t": 1774858189.1531081, "dirs": 75079, "files": 606214, "decision": {"next": "EXPAND"}}
+{"t": 1774858192.0518613, "dirs": 75001, "files": 607720, "decision": {"next": "EXPAND"}}
+{"t": 1774858194.9210186, "dirs": 75001, "files": 608179, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858196.5771542, "dirs": 74949, "files": 607248, "decision": {"next": "EXPAND"}}
+{"t": 1774858199.0224376, "dirs": 75105, "files": 606440, "decision": {"next": "EXPAND"}}
+{"t": 1774858212.7911212, "dirs": 75259, "files": 610742, "decision": {"next": "EXPAND"}}
+{"t": 1774858214.876222, "dirs": 75259, "files": 609104, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858220.6320806, "dirs": 75271, "files": 609352, "decision": {"next": "EXPAND"}}
+{"t": 1774858220.652555, "dirs": 75211, "files": 494936, "decision": {"next": "EXPAND"}}
+{"t": 1774858220.9528723, "dirs": 75177, "files": 609357, "decision": {"next": "EXPAND"}}
+{"t": 1774858232.3659177, "dirs": 75361, "files": 611680, "decision": {"next": "EXPAND"}}
+{"t": 1774858232.9959867, "dirs": 75349, "files": 611461, "decision": {"next": "EXPAND"}}
+{"t": 1774858234.438029, "dirs": 75361, "files": 611209, "decision": {"next": "EXPAND"}}
+{"t": 1774858234.957004, "dirs": 75361, "files": 611202, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858237.1731293, "dirs": 75379, "files": 612400, "decision": {"next": "EXPAND"}}
+{"t": 1774858240.2489, "dirs": 75305, "files": 611224, "decision": {"next": "EXPAND"}}
+{"t": 1774858250.4898825, "dirs": 75529, "files": 612870, "decision": {"next": "EXPAND"}}
+{"t": 1774858250.5253952, "dirs": 75373, "files": 612861, "decision": {"next": "EXPAND"}}
+{"t": 1774858250.8413312, "dirs": 75373, "files": 612874, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858254.0314476, "dirs": 75529, "files": 613346, "decision": {"next": "EXPAND"}}
+{"t": 1774858255.6608672, "dirs": 75685, "files": 613560, "decision": {"next": "EXPAND"}}
+{"t": 1774858265.2350893, "dirs": 75593, "files": 613583, "decision": {"next": "EXPAND"}}
+{"t": 1774858274.791945, "dirs": 75645, "files": 611916, "decision": {"next": "EXPAND"}}
+{"t": 1774858278.2351468, "dirs": 75657, "files": 614540, "decision": {"next": "EXPAND"}}
+{"t": 1774858282.428153, "dirs": 75747, "files": 615269, "decision": {"next": "EXPAND"}}
+{"t": 1774858282.5047157, "dirs": 75724, "files": 615480, "decision": {"next": "EXPAND"}}
+{"t": 1774858282.907575, "dirs": 75747, "files": 615488, "decision": {"next": "EXPAND"}}
+{"t": 1774858286.3322542, "dirs": 75765, "files": 613982, "decision": {"next": "EXPAND"}}
+{"t": 1774858305.7808967, "dirs": 75915, "files": 617551, "decision": {"next": "EXPAND"}}
+{"t": 1774858306.4462354, "dirs": 75941, "files": 618265, "decision": {"next": "EXPAND"}}
+{"t": 1774858310.1799707, "dirs": 75915, "files": 616163, "decision": {"next": "EXPAND"}}
+{"t": 1774858314.461435, "dirs": 75711, "files": 616991, "decision": {"next": "EXPAND"}}
+{"t": 1774858315.4081736, "dirs": 75771, "files": 616277, "decision": {"next": "EXPAND"}}
+{"t": 1774858315.59538, "dirs": 75771, "files": 616278, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858319.6451669, "dirs": 75927, "files": 617698, "decision": {"next": "EXPAND"}}
+{"t": 1774858322.2735713, "dirs": 75927, "files": 618420, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858331.2729406, "dirs": 75879, "files": 618669, "decision": {"next": "EXPAND"}}
+{"t": 1774858332.2779894, "dirs": 76017, "files": 619337, "decision": {"next": "EXPAND"}}
+{"t": 1774858336.3374577, "dirs": 76095, "files": 619386, "decision": {"next": "EXPAND"}}
+{"t": 1774858337.8948808, "dirs": 76095, "files": 620072, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858337.9191432, "dirs": 76095, "files": 620070, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858343.5459633, "dirs": 76029, "files": 618963, "decision": {"next": "EXPAND"}}
+{"t": 1774858343.7106378, "dirs": 75957, "files": 618245, "decision": {"next": "EXPAND"}}
+{"t": 1774858349.2277033, "dirs": 63518, "files": 616143, "decision": {"next": "EXPAND"}}
+{"t": 1774858360.3364534, "dirs": 76293, "files": 622037, "decision": {"next": "EXPAND"}}
+{"t": 1774858360.343667, "dirs": 76215, "files": 621320, "decision": {"next": "EXPAND"}}
+{"t": 1774858360.3452466, "dirs": 76215, "files": 622034, "decision": {"next": "EXPAND"}}
+{"t": 1774858362.6013703, "dirs": 76305, "files": 621335, "decision": {"next": "EXPAND"}}
+{"t": 1774858365.2182646, "dirs": 76383, "files": 621353, "decision": {"next": "EXPAND"}}
+{"t": 1774858373.0292406, "dirs": 76222, "files": 621646, "decision": {"next": "EXPAND"}}
+{"t": 1774858374.7165782, "dirs": 76305, "files": 618968, "decision": {"next": "EXPAND"}}
+{"t": 1774858391.352032, "dirs": 76155, "files": 624042, "decision": {"next": "EXPAND"}}
+{"t": 1774858392.7738485, "dirs": 76545, "files": 623352, "decision": {"next": "EXPAND"}}
+{"t": 1774858394.0925548, "dirs": 76389, "files": 623302, "decision": {"next": "EXPAND"}}
+{"t": 1774858399.9382162, "dirs": 76493, "files": 625182, "decision": {"next": "EXPAND"}}
+{"t": 1774858401.1195636, "dirs": 76545, "files": 625162, "decision": {"next": "EXPAND"}}
+{"t": 1774858403.1492941, "dirs": 76545, "files": 624381, "decision": {"next": "EXPAND"}}
+{"t": 1774858403.1796436, "dirs": 76545, "files": 624408, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858406.85608, "dirs": 76323, "files": 622220, "decision": {"next": "EXPAND"}}
+{"t": 1774858411.7555642, "dirs": 76479, "files": 623432, "decision": {"next": "EXPAND"}}
+{"t": 1774858429.3473349, "dirs": 76648, "files": 626333, "decision": {"next": "EXPAND"}}
+{"t": 1774858432.133913, "dirs": 76647, "files": 627029, "decision": {"next": "EXPAND"}}
+{"t": 1774858433.98652, "dirs": 76647, "files": 627055, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858436.7075484, "dirs": 76737, "files": 626672, "decision": {"next": "EXPAND"}}
+{"t": 1774858442.9071622, "dirs": 76503, "files": 626805, "decision": {"next": "EXPAND"}}
+{"t": 1774858442.9617226, "dirs": 76503, "files": 626884, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858443.833426, "dirs": 76425, "files": 625960, "decision": {"next": "EXPAND"}}
+{"t": 1774858443.939467, "dirs": 76366, "files": 626679, "decision": {"next": "EXPAND"}}
+{"t": 1774858453.3211195, "dirs": 76738, "files": 625892, "decision": {"next": "EXPAND"}}
+{"t": 1774858455.712059, "dirs": 76671, "files": 627145, "decision": {"next": "EXPAND"}}
+{"t": 1774858463.0725517, "dirs": 76749, "files": 625892, "decision": {"next": "EXPAND"}}
+{"t": 1774858463.2949364, "dirs": 76858, "files": 501757, "decision": {"next": "EXPAND"}}
+{"t": 1774858466.4761434, "dirs": 76905, "files": 628670, "decision": {"next": "EXPAND"}}
+{"t": 1774858469.7027285, "dirs": 76827, "files": 629359, "decision": {"next": "EXPAND"}}
+{"t": 1774858472.6875675, "dirs": 77013, "files": 628697, "decision": {"next": "EXPAND"}}
+{"t": 1774858474.2959266, "dirs": 77013, "files": 627956, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858476.023607, "dirs": 77013, "files": 628906, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858481.2499795, "dirs": 76761, "files": 626713, "decision": {"next": "EXPAND"}}
+{"t": 1774858481.2507124, "dirs": 76683, "files": 627651, "decision": {"next": "EXPAND"}}
+{"t": 1774858482.8329165, "dirs": 76605, "files": 629729, "decision": {"next": "EXPAND"}}
+{"t": 1774858498.2539127, "dirs": 76941, "files": 626649, "decision": {"next": "EXPAND"}}
+{"t": 1774858499.606057, "dirs": 77097, "files": 627331, "decision": {"next": "EXPAND"}}
+{"t": 1774858502.8491755, "dirs": 76941, "files": 629495, "decision": {"next": "EXPAND"}}
+{"t": 1774858504.2442315, "dirs": 77097, "files": 630423, "decision": {"next": "EXPAND"}}
+{"t": 1774858505.1121864, "dirs": 77097, "files": 630434, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858508.3932264, "dirs": 77175, "files": 631149, "decision": {"next": "EXPAND"}}
+{"t": 1774858515.2978256, "dirs": 77188, "files": 629929, "decision": {"next": "EXPAND"}}
+{"t": 1774858516.523131, "dirs": 76971, "files": 629851, "decision": {"next": "EXPAND"}}
+{"t": 1774858519.0822523, "dirs": 77127, "files": 628663, "decision": {"next": "EXPAND"}}
+{"t": 1774858530.5354571, "dirs": 77055, "files": 631793, "decision": {"next": "EXPAND"}}
+{"t": 1774858530.561138, "dirs": 77289, "files": 501873, "decision": {"next": "EXPAND"}}
+{"t": 1774858537.8525596, "dirs": 77289, "files": 504242, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858537.8671658, "dirs": 77289, "files": 504539, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858540.823175, "dirs": 76977, "files": 629721, "decision": {"next": "EXPAND"}}
+{"t": 1774858541.934794, "dirs": 77211, "files": 631818, "decision": {"next": "EXPAND"}}
+{"t": 1774858544.4080508, "dirs": 77301, "files": 633326, "decision": {"next": "EXPAND"}}
+{"t": 1774858546.8280556, "dirs": 77368, "files": 631771, "decision": {"next": "EXPAND"}}
+{"t": 1774858550.8592415, "dirs": 77289, "files": 631109, "decision": {"next": "EXPAND"}}
+{"t": 1774858557.3752227, "dirs": 77119, "files": 629642, "decision": {"next": "EXPAND"}}
+{"t": 1774858560.0059502, "dirs": 77137, "files": 631736, "decision": {"next": "EXPAND"}}
+{"t": 1774858563.9772933, "dirs": 77241, "files": 631182, "decision": {"next": "EXPAND"}}
+{"t": 1774858576.0574172, "dirs": 77203, "files": 633028, "decision": {"next": "EXPAND"}}
+{"t": 1774858589.183438, "dirs": 77457, "files": 636130, "decision": {"next": "EXPAND"}}
+{"t": 1774858591.7090905, "dirs": 77457, "files": 636141, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858593.2671728, "dirs": 77535, "files": 636167, "decision": {"next": "EXPAND"}}
+{"t": 1774858593.5077162, "dirs": 77535, "files": 636171, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858600.0563219, "dirs": 77475, "files": 634401, "decision": {"next": "EXPAND"}}
+{"t": 1774858603.307236, "dirs": 77313, "files": 635798, "decision": {"next": "EXPAND"}}
+{"t": 1774858606.0151594, "dirs": 77236, "files": 634871, "decision": {"next": "EXPAND"}}
+{"t": 1774858607.149971, "dirs": 77261, "files": 634373, "decision": {"next": "EXPAND"}}
+{"t": 1774858607.8019414, "dirs": 77183, "files": 634385, "decision": {"next": "EXPAND"}}
+{"t": 1774858607.8268497, "dirs": 77157, "files": 634381, "decision": {"next": "EXPAND"}}
+{"t": 1774858616.7839804, "dirs": 77559, "files": 635612, "decision": {"next": "EXPAND"}}
+{"t": 1774858620.1167595, "dirs": 77343, "files": 636151, "decision": {"next": "EXPAND"}}
+{"t": 1774858624.522121, "dirs": 77170, "files": 635545, "decision": {"next": "EXPAND"}}
+{"t": 1774858624.7010574, "dirs": 61605, "files": 506603, "decision": {"next": "EXPAND"}}
+{"t": 1774858629.3101845, "dirs": 77325, "files": 635067, "decision": {"next": "EXPAND"}}
+{"t": 1774858629.581141, "dirs": 77325, "files": 635086, "decision": {"next": "NO_CHANGE"}}
+{"t": 1774858634.7352343, "dirs": 77675, "files": 637902, "decision": {"next": "EXPAND"}}
+{"t": 1774858640.6434026, "dirs": 77519, "files": 638298, "decision": {"next": "EXPAND"}}
+{"t": 1774883190.410133, "mode": "FULL", "mem": 2274, "signal": {"tasks": 200, "data": 200}, "actions": [], "results": {"tasks_status": 200, "data_status": 200}, "state": "STABLE"}

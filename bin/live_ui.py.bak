@@ -1,0 +1,91 @@
+from http.server import HTTPServer, BaseHTTPRequestHandler
+import json, os
+from core.memory import last_state
+from core.tasks import load
+
+BASE = "/opt/aicore/tenants/ms24/ai-platform/storage"
+OKFILE = BASE + "/OK.signal"
+
+class UI(BaseHTTPRequestHandler):
+
+    def do_GET(self):
+
+        if self.path == "/ok":
+            open(OKFILE,"w").write("OK")
+            self._json({"ok":True})
+            return
+
+        if self.path == "/state":
+            self._json(last_state())
+            return
+
+        if self.path == "/tasks":
+            self._json(load())
+            return
+
+        self.send_response(200)
+        self.end_headers()
+
+        self.wfile.write(b"""
+<html>
+<body style="background:#0b0b0b;color:#00ffcc;font-family:monospace">
+
+<h2>AICORE CONTROL PLANE</h2>
+
+<div id="status"></div>
+
+<br>
+
+<button onclick="ok()">OK</button>
+
+<hr>
+
+<h3>CURRENT TASK</h3>
+<div id="current"></div>
+
+<h3>NEXT</h3>
+<div id="next"></div>
+
+<h3>DONE</h3>
+<pre id="done"></pre>
+
+<script>
+
+function load(){
+
+ fetch('/state')
+ .then(r=>r.json())
+ .then(d=>{
+    document.getElementById("status").innerText =
+      "Dirs: " + d.dirs +
+      " | Files: " + d.files +
+      " | Progress: " + d.progress;
+ });
+
+ fetch('/tasks')
+ .then(r=>r.json())
+ .then(t=>{
+    document.getElementById("current").innerText = t.current;
+    document.getElementById("next").innerText = t.next;
+    document.getElementById("done").innerText = JSON.stringify(t.done,null,2);
+ });
+}
+
+function ok(){
+ fetch('/ok').then(()=>load());
+}
+
+setInterval(load,1500);
+
+</script>
+
+</body>
+</html>
+""")
+
+    def _json(self,d):
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(json.dumps(d).encode())
+
+HTTPServer(("0.0.0.0",50000),UI).serve_forever()

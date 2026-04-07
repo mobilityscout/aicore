@@ -1,0 +1,39 @@
+<html>
+<body style="background:#0b0b0b;color:#00ffcc;font-family:monospace">
+
+<h2>AICORE CONTROL PLANE</h2>
+
+<div id="status"></div>
+
+<br>
+<button onclick="ok()">OK</button>
+
+<hr>
+
+<h3>STATE</h3>
+<div id="state"></div>
+
+<script>
+
+function load(){
+ fetch('http://51.24.14.6:50000/state')
+ .then(r=>r.json())
+ .then(d=>{
+    document.getElementById("status").innerText =
+      "Dirs: " + d.dirs +
+      " | Files: " + d.files;
+
+    document.getElementById("state").innerText = d.state;
+ });
+}
+
+function ok(){
+ fetch('http://51.24.14.6:50000/ok').then(()=>load());
+}
+
+setInterval(load,1500);
+
+</script>
+
+</body>
+</html>

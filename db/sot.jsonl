@@ -1,0 +1,274 @@
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901626.2684531}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901626.2686322}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901626.2712107}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901626.2722907}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901626.273243}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901626.274288}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901631.2747653}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901631.2749279}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901631.275801}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901631.277034}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901631.2812157}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901631.2840219}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901636.2849174}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901636.2850966}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901636.2860587}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901636.287208}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901636.2883148}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901636.289361}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901641.2898996}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901641.290101}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901641.291092}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901641.2922516}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901641.2932231}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901641.2943108}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901646.2947655}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901646.2949164}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901646.2957838}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901646.2969167}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901646.2994068}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901646.302154}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901651.3029625}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901651.3031476}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901651.3042045}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901651.3052921}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901651.30632}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901651.3073287}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901656.3078902}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901656.3080761}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901656.3091393}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901656.3101993}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901656.3112226}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901656.3122346}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901661.3128364}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901661.3130386}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901661.3140604}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901661.3151817}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901661.3162382}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901661.3172524}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901666.3178368}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901666.318039}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901666.319109}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901666.3202615}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901666.3214722}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901666.322484}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901671.323016}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901671.323193}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901671.3242633}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901671.3253133}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901671.3263342}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901671.327328}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901676.3278852}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901676.328126}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901676.3291547}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901676.3302321}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901676.3312593}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901676.3322434}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901681.332778}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901681.33298}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901681.333929}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901681.3351219}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901681.3360891}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901681.3370252}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901686.3375282}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901686.3377247}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901686.3387203}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901686.3397264}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901686.3406916}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901686.3416271}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901691.3420446}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901691.342208}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901691.3431332}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901691.3442326}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901691.346774}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901691.3496485}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901696.3504353}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901696.3506851}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901696.3516715}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901696.352714}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901696.3539128}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901696.3549721}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901701.3555434}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901701.3557642}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901701.3569033}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901701.3590727}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901701.3606994}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901701.3616688}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901706.3621688}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901706.3623495}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901706.3634472}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901706.3645084}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901706.3656318}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901706.3666081}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901711.3670487}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901711.3672078}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901711.3681135}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901711.3695536}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901711.3722398}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901711.374748}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901716.375367}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901716.3755472}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901716.3765771}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901716.3776069}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901716.3785481}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901716.3795667}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901721.3801835}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901721.3803642}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901721.3813913}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901721.3824348}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901721.3834631}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901721.3844132}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901726.3849778}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901726.3851614}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901726.3860457}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901726.3883598}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901726.3894343}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901726.3906395}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901731.3911777}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901731.3913565}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901731.392368}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901731.393453}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901731.395488}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901731.3974822}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901736.3992057}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901736.3994036}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901736.4004676}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901736.401553}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901736.4024804}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901736.4034247}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901741.4039907}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901741.4041667}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901741.4052074}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901741.406153}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901741.4071014}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901741.4080446}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901746.408557}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901746.4087923}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901746.4098527}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901746.4108155}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901746.411783}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901746.4128456}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901751.413414}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901751.4136226}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901751.4146698}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901751.4157147}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901751.416644}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901751.417626}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901756.4181051}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901756.4182973}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901756.4193735}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901756.420399}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901756.4214349}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901756.4223402}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901761.423196}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901761.4233859}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901761.4243824}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901761.4255376}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901761.4267874}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901761.4277987}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901766.428356}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901766.4287128}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901766.429749}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901766.4308448}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901766.4318013}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901766.432978}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901771.4334767}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901771.4336903}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901771.434804}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901771.4358974}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901771.437049}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901771.4381077}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901776.4386065}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901776.4387925}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901776.4397957}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901776.440959}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901776.4419348}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901776.4428835}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901781.4434266}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901781.443649}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901781.444615}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901781.445758}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901781.4467914}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901781.4477813}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901786.4483025}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901786.448507}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901786.4496582}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901786.4507003}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901786.4517236}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901786.4526885}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901791.4533467}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901791.4535325}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901791.4545012}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901791.4556916}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901791.4566174}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901791.457619}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901796.4589043}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901796.4590793}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901796.462333}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901796.4643145}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901796.4661736}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901796.4687963}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901801.4695787}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901801.469793}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901801.4708755}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901801.4719825}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901801.473073}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901801.4740884}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901806.4745052}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901806.474693}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901806.4755244}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901806.4766302}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901806.4779313}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901806.4789608}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901811.479536}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901811.4797635}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901811.4807155}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901811.481775}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901811.482777}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901811.483836}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901816.4842758}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901816.48444}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901816.4853828}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901816.48773}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901816.4905138}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901816.4933755}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901821.4942431}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901821.4944246}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901821.4954364}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901821.4965599}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901821.4975212}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901821.4985464}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901826.4994278}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901826.4996827}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901826.5029047}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901826.5053551}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901826.5083551}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901826.511395}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901831.51224}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901831.5124166}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901831.513503}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901831.5144906}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901831.515472}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901831.5165036}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901836.5182297}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901836.5186067}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901836.5244343}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901836.5319636}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901836.533362}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901836.5380893}
+{"type": "GLOBAL_PATTERN", "pattern": "STATE_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901841.5386877}
+{"type": "GLOBAL_PATTERN", "pattern": "UI_SYSTEM_MISSING", "count": 4, "status": "SUCCESS", "confidence": 0.9, "timestamp": 1774901841.5388765}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901841.539866}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901841.541048}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901841.5421686}
+{"type": "STRUCTURE", "signal": "ui system missing", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774901841.543201}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902495.5903888}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902497.593839}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902499.5953245}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902501.5965388}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902503.598247}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902505.5997853}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902507.6014473}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902509.6033907}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902511.605071}
+{"type": "STRUCTURE", "signal": "missing: ui system", "status": "SUCCESS", "confidence": 0.9, "name": "UI_SYSTEM", "timestamp": 1774902513.606669}
